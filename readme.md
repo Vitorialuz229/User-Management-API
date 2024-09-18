@@ -67,7 +67,6 @@ DATABASE_URL="mongodb+srv://<username>:<password>@cluster.mongodb.net/mydatabase
 6. Execute o comando para sincronizar o Prisma com o banco de dados MongoDB:
 
 ```bash
-Copiar código
 npx prisma db push
 ```
 
