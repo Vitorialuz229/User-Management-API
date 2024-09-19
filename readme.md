@@ -10,6 +10,9 @@
 
 Este projeto é uma API para gerenciamento de usuários, desenvolvida com Node.js, Express e Prisma ORM, utilizando o **MongoDB** como banco de dados. A API permite criar, visualizar, atualizar e deletar usuários, fornecendo endpoints para operações CRUD básicas. O Prisma atua como ORM para facilitar a interação com o MongoDB.
 
+## Front-End
+O código do front-end para esta API pode ser encontrado no repositório [User Management View](https://github.com/Vitorialuz229/User-Management-View.git).
+
 ## Funcionalidades
 
 - **Criação de Usuários**: Adicionar novos usuários com `nome`, `idade` e `email`.
